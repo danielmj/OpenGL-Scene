@@ -1,4 +1,10 @@
-The scene shows two armchairs facing a broken tv on a rugged landscape. 
+The scene shows two armchairs facing a broken tv on a rugged landscape. I wanted to mimic a scene in the Matrix, however it didnt really come out the way I wanted.
+
+## Requirements
+
+- graphicslib3D - Developed at CSUS. [Download Here](http://athena.ecs.csus.edu/~gordonvs/155/graphicslib3D.zip).
+- JOGL
+- OpenGL 4.3 or higher
 
 ## Shadows
 
