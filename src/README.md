@@ -1,6 +1,6 @@
 The scene shows two armchairs facing a broken tv on a rugged landscape. 
 
-#### Shadows
+## Shadows
 
 Shadows have been added on most objects. The object that I had trouble 
 getting shadows to work properly on was the tesselated ground.
@@ -8,7 +8,7 @@ getting shadows to work properly on was the tesselated ground.
 NOTE: Occasionally you will get a spider web looking shadow. This is actually 
 caused by the indentations in the chairs.
 
-#### Four Effect Choices
+## Four Effect Choices
 
 1. Procedural Bump Mapping
 There is a torus that has been placed on top of the TV. This torus includes 
@@ -27,7 +27,7 @@ Using noise, I added some "happy clouds"-Bob Ross. These clouds have a rotation
 animation and they change over time.
 
 
-#### Textures Used
+## Textures Used
 
 - Chairs:
 There is a leather texture on the chairs, however, it is barely visible. I 
@@ -38,21 +38,8 @@ There is a wood texture on the TV. This shows really well. I wished I would have
 texture for the TV glass but I didnt have enough time.
 
 - Tesselation:
-The texture of the tesselation is an rocky texture. 
+The texture of the tesselation is an darkened rock face. 
 
-
-#### Materials
+## Materials
 
 Each object has its own material. I switched between gold and silver materials
-
-
-#### Organization
-
-There is still so much more that I wanted to do for organization. I decided to encapsulate the 
-code to draw each objects, load their objects and verticies in their own respective classes. 
-Given more time I would have liked to use an interface to iterate through an array of objects 
-and call the interface object's defined methods.
-
-I also created a genereric program creation function that greatly reduces the code required to setup 
-the shaders. It works by passing in a list of file names and shader types, and it will set each up 
-and check for errors.
