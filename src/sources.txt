@@ -1,15 +1,1 @@
-C:\Users\Dan\Developer\CSC155\Assignments\a4\src\a4\Animator.java
-C:\Users\Dan\Developer\CSC155\Assignments\a4\src\a4\Camera.java
-C:\Users\Dan\Developer\CSC155\Assignments\a4\src\a4\Code.java
-C:\Users\Dan\Developer\CSC155\Assignments\a4\src\a4\CodeBACKUP.java
-C:\Users\Dan\Developer\CSC155\Assignments\a4\src\a4\Main.java
-C:\Users\Dan\Developer\CSC155\Assignments\a4\src\a4\Manager.java
-C:\Users\Dan\Developer\CSC155\Assignments\a4\src\a4\Objects\HalfSphere.java
-C:\Users\Dan\Developer\CSC155\Assignments\a4\src\a4\Objects\ImportedModel.java
-C:\Users\Dan\Developer\CSC155\Assignments\a4\src\a4\Objects\ModelImporter.java
-C:\Users\Dan\Developer\CSC155\Assignments\a4\src\a4\Objects\ObjectChair.java
-C:\Users\Dan\Developer\CSC155\Assignments\a4\src\a4\Objects\ObjectClouds.java
-C:\Users\Dan\Developer\CSC155\Assignments\a4\src\a4\Objects\ObjectDonut.java
-C:\Users\Dan\Developer\CSC155\Assignments\a4\src\a4\Objects\ObjectGround.java
-C:\Users\Dan\Developer\CSC155\Assignments\a4\src\a4\Objects\ObjectLightBox.java
-C:\Users\Dan\Developer\CSC155\Assignments\a4\src\a4\Objects\ObjectTV.java
+
